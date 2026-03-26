@@ -215,7 +215,9 @@ Repository
 ├── branches  — list / create / delete / rename / checkout
 ├── remotes   — list / add / remove / rename / fetch / push
 ├── tags      — list / create / delete
-└── stash     — push / pop / apply / drop / list
+├── stash     — push / pop / apply / drop / list
+├── config    — get / set / list / delete           (planned)
+└── submodules — list / initialize / update         (planned)
 ```
 
 ---
